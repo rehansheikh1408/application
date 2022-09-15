@@ -1,2 +1,6 @@
 This is FileA
+<<<<<<< HEAD
 This is a change to the file
+=======
+This is a change to the FileA
+>>>>>>> FeatureA
